@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e6cb47f-e09c-42a5-a8f9-b83b6303b79a" name="instagtemp">
+        <fileTransfer accessType="SFTP" host="connect.nmb2.seetacloud.com" port="12355" sshConfigId="c09e1047-ed21-409a-bd70-0519e33dd0b2" sshConfig="root@connect.nmb2.seetacloud.com:12355 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
