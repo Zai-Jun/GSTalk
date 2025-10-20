@@ -14,7 +14,7 @@ import math
 # from diff_gaussian_rasterization import GaussianRasterizationSettings, GaussianRasterizer
 from diff_gauss import GaussianRasterizationSettings, GaussianRasterizer
 from scene.gaussian_model import GaussianModel
-from scene.motion_net import MotionNetwork, MouthMotionNetwork
+from scene.motion_net import MotionNetwork
 from utils.sh_utils import eval_sh
 
 
